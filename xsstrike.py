@@ -34,7 +34,7 @@ import argparse
 
 # ... and configurations core lib
 import core.config
-import core.log
+import core.log # this is a fake comment 
 
 # Processing command line arguments, where dest var names will be mapped to local vars with the same name
 parser = argparse.ArgumentParser()
